@@ -12,13 +12,13 @@ github_username: AlexDvt
 ## Générer la VM
 
 Depuis un terminal (dans le répertoire du dossier) :
-	vagrant up
+	> vagrant up
 
 Puis :
-	vagrant ssh
+	> vagrant ssh
 
 
 ## Supprimer la VM
 
 Depuis un terminal (dans le répertoire du dossier) :
-	vagrant destroy
+	> vagrant destroy
